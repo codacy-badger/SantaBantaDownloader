@@ -1,5 +1,7 @@
 # SantaBanta Bulk Downloader
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a77ccf33f3224024bf91640e642b3aa8)](https://app.codacy.com/gh/shortthirdman/SantaBantaDownloader?utm_source=github.com&utm_medium=referral&utm_content=shortthirdman/SantaBantaDownloader&utm_campaign=Badge_Grade)
+
 ![GitHub issues](https://img.shields.io/github/issues/shortthirdman/SantaBantaDownloader)
 ![GitHub](https://img.shields.io/github/license/shortthirdman/SantaBantaDownloader)
 ![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/shortthirdman/SantaBantaDownloader)
